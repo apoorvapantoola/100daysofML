@@ -1,2 +1,3 @@
-# 100daysofML
-Machine Learning
+Machine Learning : 
+
+1) Simple Linear Regression
